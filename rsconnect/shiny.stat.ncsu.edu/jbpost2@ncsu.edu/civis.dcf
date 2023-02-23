@@ -1,0 +1,13 @@
+name: civis
+title: CIVis
+username: jbpost2@ncsu.edu
+account: jbpost2@ncsu.edu
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 51
+bundleId: 73
+url: https://shiny.stat.ncsu.edu/content/a2d0e41f-00bb-42ed-93c2-9f34debc9caa/
+when: 1674243165.71102
+lastSyncTime: 1674243165.71103
+asMultiple: FALSE
+asStatic: FALSE
